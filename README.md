@@ -8,3 +8,5 @@ The first spreadsheet "paper_data" contains information of the analysed articles
 The second spreadsheet "paper_details" is a matrix with information obtained from these articles on the relationship between bee functional traits and landscape heterogeneity. In tjis table it is possible to analyse the landscape heterogeneity types found and the functional traits analysed in each article, as well as the response of bee functional traits to landscape heterogeneity.
 
 The remaining spreadsheets correspond to the responses of bee functional traits for each category of landscape heterogeneity separately.
+
+The data is presented in two different formats, as a .XLSX spreadsheet and as single .ZIP file containing all tables in .CSV format. The data in both formats is exactly the same.
