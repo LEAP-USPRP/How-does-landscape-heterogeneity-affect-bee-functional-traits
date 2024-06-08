@@ -1,4 +1,4 @@
-# How-does-landscape-heterogeneity-affect-bee-functional-traits
+# How-does-landscape-heterogeneity-affect-bee-functional-trait
 The data is from a systematic review of the relationship between bee functional traits and landscape heterogeneity. The complete text and in-depth considerations about this review is currently under revision to be published in OIKOS.
 
 The data presented in these spreadsheets are systematic reviews of selected scientific articles from Scopus and Web of Knowledge platforms.
